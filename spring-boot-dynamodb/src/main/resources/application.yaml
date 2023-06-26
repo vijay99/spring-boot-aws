@@ -1,0 +1,4 @@
+server:
+  servlet:
+    contect-path: /api/v1
+
