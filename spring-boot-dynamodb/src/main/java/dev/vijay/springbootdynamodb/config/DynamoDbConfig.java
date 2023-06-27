@@ -14,8 +14,8 @@ public class DynamoDbConfig {
 
     public static final String REGION = "us-east-1";
     public static final String SERVICE_ENDPOINT = "dynamodb.us-east-1.amazonaws.com";
-    public static final String ACCESS_KEY = "AKIA2R6IUZMVTQPOVBM6";
-    public static final String SECRET_KEY = "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";
+    public static final String ACCESS_KEY = "ACCESS_KEY";
+    public static final String SECRET_KEY = "SECRET_KEY";
 
     @Bean
     public DynamoDBMapper mapper(){
